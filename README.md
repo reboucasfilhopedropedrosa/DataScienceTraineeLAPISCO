@@ -15,15 +15,16 @@
 
 ## Módulo 2 - Ferramentas Básicas
 
-### Aula 3 - Parte 2 - Versionamento de código com GIT
+### Aula 1 - 
 * [Video 1]()
 * [Video 2]()
 * [Arquivos](  )
 
-### Aula 3 - Parte 2 - Versionamento de código com GIT
+### Aula 2 - 
 * [Video 1]()
 * [Video 2]()
 * [Arquivos](  )
+
 
 
 ## Módulo 2 - Ferramentas Básicas
