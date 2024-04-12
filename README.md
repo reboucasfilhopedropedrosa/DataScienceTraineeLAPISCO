@@ -39,19 +39,23 @@
 
 
 
-## Módulo 2 - Ferramentas Básicas
+## Módulo 3 - Machine Learning and Deep Learning
 
 ### Aula 1 - 
-* [Video 1]()
-* [Video 2]()
-* [Arquivos](  )
+* [Video 1](https://youtu.be/LK1C9uVgi4o)
+* [Video 2](https://youtu.be/R8sxOa57U6A)
+* [Video 3](https://youtu.be/kJXgWlvjUE4)
+* [Video 4](https://youtu.be/VrQ39S6ZzU0)
+* [Códigos de Aula]( https://github.com/lapisco/machine_learning_course/blob/master/ml.ipynb )
+* [Atividade]( https://github.com/lapisco/machine_learning_course/blob/master/exercise/Atividades.ipynb)
 
-### Aula 2 - 
-* [Video 1]()
-* [Video 2]()
-* [Arquivos](  )
+### Aula 2 - Deep Learning 
+* [Video 1](https://youtu.be/Kw74ewWdZ9w)
+* [Video 2](https://youtu.be/NLyPcnuiJqA)
+* [Arquivos]( https://github.com/reboucasfilhopedropedrosa/DataScienceTraineeLAPISCO/tree/d804072c766453fa5c2d64143e1ef5ddabf771b5/Arquivos%20-%20Mo%CC%81dulo%203 )
 
-
+### Aula 3 - Tira Dúvidas
+* [Video]( https://youtu.be/NeCjnNGar6U )
 
 ## Módulo 2 - Data Mining
 
