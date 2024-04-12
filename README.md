@@ -15,10 +15,10 @@
 * [Video 1]( https://youtu.be/a8kj7CQnL1I )
 * [Video 2]( https://youtu.be/N9DyDjxAAtI )
 * [Material de aula]( https://github.com/reboucasfilhopedropedrosa/DataScienceTraineeLAPISCO/blob/9a51bfda00aeb4e3a233e1408aaaacc9cc329657/Arquivos%20-%20Mo%CC%81dulo%201/Aula%20Trainee%20-%20Sistema%20de%20Versionamento%20GIT.pdf )
-* [Atividade GIt e Github]{
 
 ### Aula 4 - Tira Dúvidas
-* [Video 1](
+* [Material de aula]( https://github.com/reboucasfilhopedropedrosa/DataScienceTraineeLAPISCO/blob/22f09a326efddba3dcc725097d8ac8119e00c98a/Arquivos%20-%20Mo%CC%81dulo%201/Aula.ipynb )
+* [Códigos]( https://github.com/reboucasfilhopedropedrosa/DataScienceTraineeLAPISCO/blob/22f09a326efddba3dcc725097d8ac8119e00c98a/Arquivos%20-%20Mo%CC%81dulo%201/notebook2script.py )
 
 ## Módulo 2 - Ferramentas Básicas
 
