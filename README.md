@@ -20,17 +20,22 @@
 * [Material de aula]( https://github.com/reboucasfilhopedropedrosa/DataScienceTraineeLAPISCO/blob/22f09a326efddba3dcc725097d8ac8119e00c98a/Arquivos%20-%20Mo%CC%81dulo%201/Aula.ipynb )
 * [Códigos]( https://github.com/reboucasfilhopedropedrosa/DataScienceTraineeLAPISCO/blob/22f09a326efddba3dcc725097d8ac8119e00c98a/Arquivos%20-%20Mo%CC%81dulo%201/notebook2script.py )
 
-## Módulo 2 - Ferramentas Básicas
+## Módulo 2 - Data Mining
 
-### Aula 1 - 
-* [Video 1]()
-* [Video 2]()
-* [Arquivos](  )
+### Aula 1 - Extração de atributos em sinais e seleção de atributos
+* [Video - Precisa regravar]()
+* [Códigos]( https://github.com/lapisco/Data_Science_Trainee_Program/tree/master/Module_2 )
+* [Código - Feature Extraction]( https://github.com/navarmn/feature_extraction_signal?authuser=0 )
+* [Código - Feature Selection]( https://github.com/navarmn/feature_selection_framework?authuser=0 )
+* [Atividade]( https://github.com/lapisco/Data_Science_Trainee_Program/blob/master/Module_2/feature_extraction_and_feature_selection/Atividades.ipynb )
 
-### Aula 2 - 
-* [Video 1]()
-* [Video 2]()
-* [Arquivos](  )
+### Aula 2 - Extração de atributos em Imagens
+* [Video](https://youtu.be/Rgqf6oTlElo)
+* [Tira - dúvidas ](https://youtu.be/acxuyzGvhSo)
+* [Material Complementar]( https://github.com/reboucasfilhopedropedrosa/DataScienceTraineeLAPISCO/tree/7a3e2a73559db1c634b6f2b9b8499e528d76b270/Arquivos%20-%20Mo%CC%81dulo%202)
+
+### Aula 3 - Tira - dúvidas
+* [Video](https://youtu.be/acxuyzGvhSo)
 
 
 
