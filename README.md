@@ -3,7 +3,7 @@
 ## Módulo 1 - Ferramentas Básicas
 ### Aula 1 - Manipulação de dados com Pandas e MySQL
 * [Video]( https://youtu.be/W_ifpWMY8g4 )
-* Material de aula]( https://github.com/reboucasfilhopedropedrosa/DataScienceTraineeLAPISCO/blob/9a51bfda00aeb4e3a233e1408aaaacc9cc329657/Arquivos%20-%20Módulo%201/Manipulação%20de%20dados%20-%20Pandas%20e%20MySQL.pdf )     
+* [Material de aula](https://github.com/reboucasfilhopedropedrosa/DataScienceTraineeLAPISCO/blob/9a51bfda00aeb4e3a233e1408aaaacc9cc329657/Arquivos%20-%20Módulo%201/Manipulação%20de%20dados%20-%20Pandas%20e%20MySQL.pdf)      
 * [Atividade Pands e MySQL](https://github.com/reboucasfilhopedropedrosa/DataScienceTraineeLAPISCO/blob/daea9af9a45ceed680496983e1fb3d8b2c1845f6/Arquivos%20-%20Mo%CC%81dulo%201/1%20-%20manipula%C3%A7%C3%A3o_de_dados.pdf)
 
 ### Aula 2 - Comandos Linux 
