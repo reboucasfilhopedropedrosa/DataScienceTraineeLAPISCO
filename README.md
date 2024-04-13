@@ -59,7 +59,7 @@
 
 
 
-## Módulo 2 - Data Mining
+## Módulo 4 - Object Detection
 
 ### Aula 1 - Object Detection | Segmentação Clássica
 * [Video](https://youtu.be/QgZptORFdUA)
@@ -89,40 +89,93 @@
 * [Arquivos](  )
 
 
-## Módulo 4 - Object Detection
-
-### Aula 1 - 
-* [Video 1]()
-* [Video 2]()
-* [Arquivos](  )
-
-### Aula 2 - 
-* [Video 1]()
-* [Video 2]()
-* [Arquivos](  )
-
-
-## Módulo 05 - Embedded Systems
-
-### Aula 1 - 
-* [Video 1]()
-* [Video 2]()
-* [Arquivos](  )
-
-### Aula 2 - 
-* [Video 1]()
-* [Video 2]()
-* [Arquivos](  )
-
-
 ## Módulo 06 - Internet of Things using Machine Learning
 
 ### Aula 1 - 
 * [Video 1]()
 * [Video 2]()
+* [Video 3]()
+* [Video 4]()
+* [Video 5]()
+* [Video 6]()
+* [Video 7]()
+* [Video 8]()
 * [Arquivos](  )
 
 ### Aula 2 - 
 * [Video 1]()
 * [Video 2]()
+* [Video 3]()
+* [Video 4]()
+* [Video 5]()
+* [Video 6]()
+* [Video 7]()
+* [Video 8]()
 * [Arquivos](  )
+
+### Aula 3 - 
+* [Video 1]()
+* [Video 2]()
+* [Video 3]()
+* [Video 4]()
+* [Video 5]()
+* [Video 6]()
+* [Video 7]()
+* [Video 8]()
+* [Arquivos](  )  
+
+### Aula 4 - 
+* [Video 1]()
+* [Video 2]()
+* [Video 3]()
+* [Video 4]()
+* [Video 5]()
+* [Video 6]()
+* [Video 7]()
+* [Video 8]()
+* [Arquivos](  )
+
+### Aula 5 - 
+* [Video 1]()
+* [Video 2]()
+* [Video 3]()
+* [Video 4]()
+* [Video 5]()
+* [Video 6]()
+* [Video 7]()
+* [Video 8]()
+* [Arquivos](  )
+
+### Aula 6 - 
+* [Video 1]()
+* [Video 2]()
+* [Video 3]()
+* [Video 4]()
+* [Video 5]()
+* [Video 6]()
+* [Video 7]()
+* [Video 8]()
+* [Arquivos](  )
+
+### Aula 7 - 
+* [Video 1]()
+* [Video 2]()
+* [Video 3]()
+* [Video 4]()
+* [Video 5]()
+* [Video 6]()
+* [Video 7]()
+* [Video 8]()
+* [Arquivos](  )
+
+### Aula 8 - 
+* [Video 1]()
+* [Video 2]()
+* [Video 3]()
+* [Video 4]()
+* [Video 5]()
+* [Video 6]()
+* [Video 7]()
+* [Video 8]()
+* [Arquivos](  )
+
