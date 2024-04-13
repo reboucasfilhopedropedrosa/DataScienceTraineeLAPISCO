@@ -63,21 +63,19 @@
 
 ### Aula 1 - Object Detection | Segmentação Clássica
 * [Video](https://youtu.be/QgZptORFdUA)
-* [Arquivos](  )
+* [Arquivos](  https://github.com/reboucasfilhopedropedrosa/DataScienceTraineeLAPISCO/tree/0ef8f875e9c751edd4bf5d2d2ff1f08810b208f7/Arquivos%20-%20Mo%CC%81dulo%204/Lista%20de%20Exerci%CC%81cios_Aula%201%20%7C%20Object%20Detection )
 
 ### Aula 2 - Aula 2 - Object Detection | Deep Learning com YOLO
 * [Video](https://youtu.be/s5W97nQByFM)
-* [Arquivos](  )
+* [Arquivos]( https://github.com/reboucasfilhopedropedrosa/DataScienceTraineeLAPISCO/tree/0ef8f875e9c751edd4bf5d2d2ff1f08810b208f7/Arquivos%20-%20Mo%CC%81dulo%204/Lista%20de%20Exerci%CC%81cios_Aula%202%20e%203%20%7C%20Object%20Detection%20(Prof.%20Aldi%CC%81sio%20Medeiros) )
 
 ### Aula 3 - Object Detection com Deep Learning
 * [Video](https://youtu.be/mddOgYDQlzs)
-* [Arquivos](  )
+* [Arquivos]( https://github.com/reboucasfilhopedropedrosa/DataScienceTraineeLAPISCO/tree/0ef8f875e9c751edd4bf5d2d2ff1f08810b208f7/Arquivos%20-%20Mo%CC%81dulo%204/Lista%20de%20Exerci%CC%81cios_Aula%202%20e%203%20%7C%20Object%20Detection%20(Prof.%20Aldi%CC%81sio%20Medeiros) )
 
 ### Aula 4 - Tira Dúvidas
 * [Video](https://youtu.be/NGDbeuitWE8)
-* [Arquivos](  )
 
-  
 ## Módulo 05 - Embedded Systems
 
 ### Aula 1 - Introdução aos Sistemas Embarcados
