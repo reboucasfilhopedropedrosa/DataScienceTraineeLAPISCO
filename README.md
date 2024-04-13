@@ -57,30 +57,35 @@
 ### Aula 3 - Tira Dúvidas
 * [Video]( https://youtu.be/NeCjnNGar6U )
 
+
+
 ## Módulo 2 - Data Mining
 
-### Aula 1 - 
-* [Video 1]()
-* [Video 2]()
+### Aula 1 - Object Detection | Segmentação Clássica
+* [Video](https://youtu.be/QgZptORFdUA)
 * [Arquivos](  )
 
-### Aula 2 - 
-* [Video 1]()
-* [Video 2]()
+### Aula 2 - Aula 2 - Object Detection | Deep Learning com YOLO
+* [Video](https://youtu.be/s5W97nQByFM)
 * [Arquivos](  )
 
-
-
-## Módulo 3 - Machine Learning and Deep Learning
-
-### Aula 1 - 
-* [Video 1]()
-* [Video 2]()
+### Aula 3 - Object Detection com Deep Learning
+* [Video](https://youtu.be/mddOgYDQlzs)
 * [Arquivos](  )
 
-### Aula 2 - 
-* [Video 1]()
-* [Video 2]()
+### Aula 4 - Tira Dúvidas
+* [Video](https://youtu.be/NGDbeuitWE8)
+* [Arquivos](  )
+
+  
+## Módulo 05 - Embedded Systems
+
+### Aula 1 - Introdução aos Sistemas Embarcados
+* [Video](https://youtu.be/tByGhrFTtM4)
+* [Arquivos](  )
+
+### Aula 2 - Tira Dúvidas
+* [Video](https://youtu.be/FImlar-MAkA)
 * [Arquivos](  )
 
 
