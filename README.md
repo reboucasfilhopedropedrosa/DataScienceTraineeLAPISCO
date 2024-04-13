@@ -80,11 +80,10 @@
 
 ### Aula 1 - Introdução aos Sistemas Embarcados
 * [Video](https://youtu.be/tByGhrFTtM4)
-* [Arquivos](  )
+* [Arquivos]( https://github.com/reboucasfilhopedropedrosa/DataScienceTraineeLAPISCO/tree/28b3662b576eb19b9c3d2f96c25c85fe5b282ce9/Arquivos%20-%20Mo%CC%81dulo%205 )
 
 ### Aula 2 - Tira Dúvidas
 * [Video](https://youtu.be/FImlar-MAkA)
-* [Arquivos](  )
 
 
 ## Módulo 06 - Internet of Things using Machine Learning
