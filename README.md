@@ -88,12 +88,14 @@
 
 ## Módulo 06 - Internet of Things using Machine Learning
 
+* [Material de aula em PDF]( https://github.com/reboucasfilhopedropedrosa/DataScienceTraineeLAPISCO/tree/67aa70d9285fc41b530cb69ce15f8229f7306d35/Arquivos%20-%20Mo%CC%81dulo%206 )
+* [Repositório dos códigos usados no módulo 6 ]( https://github.com/lapisco/Data_Science_Trainee_Program?authuser=0 )
+
 ### Aula 1 - First things First
 * [Video 1](https://youtu.be/HGsRzX9s_fA)
 * [Video 2](https://youtu.be/G7VkgQMpWA0)
 * [Video 3](https://youtu.be/91P0C-GBx4U)
 * [Video 4](https://youtu.be/uYAOYwl_bJY)
-* [Arquivos](  )
 
 ### Aula 2 - Container e Docker (Parte 1)
 * [Video 1](https://youtu.be/eA0THuq55w8)
@@ -103,7 +105,6 @@
 * [Video 5](https://youtu.be/XIZ4aTfIcUs)
 * [Video 6](https://youtu.be/FB3hKeQrb8A)
 * [Video 7](https://youtu.be/c329gVJ3r7M)
-* [Arquivos](  )
 
 ### Aula 3 - Container e Docker (Parte 2)
 * [Video 1](https://youtu.be/Jvxm_dwN7eY)
@@ -115,14 +116,12 @@
 * [Video 1](https://youtu.be/A9lJ-0YIkgk)
 * [Video 2](https://youtu.be/jjHuwrJVdP8)
 * [Video 3](https://youtu.be/ZhY_0GvTifQ)
-* [Arquivos](  )
 
 ### Aula 5 - Container e Docker (Parte 4)
 * [Video 1](https://youtu.be/6Z97KfZu5Fg)
 * [Video 2](https://youtu.be/pLrz3363Ka8)
 * [Video 3](https://youtu.be/tj7dGGYXsJg)
 * [Video 4](https://youtu.be/ak3qGrtfjpQ)
-* [Arquivos](  )
 
 ### Aula 6 - Modelos em Produção - API (Parte 1)
 * [Video 1](https://youtu.be/CGjwcCWxjo0)
@@ -131,7 +130,6 @@
 * [Video 4](https://youtu.be/Sj2eKvUW9IY)
 * [Video 5](https://youtu.be/Mmt8wHa5h4g)
 * [Video 6](https://youtu.be/uwKV8DyTRq8)
-* [Arquivos](  )
 
 ### Aula 7 - Modelos em Produção - API (Parte 2)
 * [Video 1](https://youtu.be/kfQp93QTSko)
@@ -142,7 +140,6 @@
 * [Video 6](https://youtu.be/tuiz00D7t44)
 * [Video 7](https://youtu.be/5xmL9Aqr5dI)
 * [Video 8](https://youtu.be/xqgvVJ-B0pM)
-* [Arquivos](  )
 
 ### Aula 8 - Documentação
 * [Video 1](https://youtu.be/4bm5Z5mVk-4)
@@ -150,5 +147,9 @@
 * [Video 3](https://youtu.be/pUkftFvI794)
 * [Video 4](https://youtu.be/ycmtyoLEWYE)
 * [Video 5](https://youtu.be/BHnOhkwxhhg)
-* [Arquivos](  )
+
+## Materias extras
+* [Video YouTube: Django 2.0 em 30 minutos]( https://youtu.be/-YlK0A8Goj8?si=0t27eRNTE3W0xhTY )
+* [Video YouTube: Django 2 - CRUD completo em 30 minutos]( https://youtu.be/mbQVVIqSxoI?si=VJSZ06w9B7SWY1zB )
+* [Django Rest Framework em 30 minutos]( https://youtu.be/gFsIGJR5R8I?si=eSIux2eGefi_xMhZ )
 
