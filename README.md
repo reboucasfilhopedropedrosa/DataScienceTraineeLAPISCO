@@ -92,10 +92,7 @@
 * [Repositório dos códigos usados no módulo 6 ]( https://github.com/lapisco/Data_Science_Trainee_Program?authuser=0 )
 
 ### Aula 1 - First things First
-* [Video 1](https://youtu.be/HGsRzX9s_fA)
-* [Video 2](https://youtu.be/G7VkgQMpWA0)
-* [Video 3](https://youtu.be/91P0C-GBx4U)
-* [Video 4](https://youtu.be/uYAOYwl_bJY)
+* [Video 1](https://youtu.be/HGsRzX9s_fA) * [Video 2](https://youtu.be/G7VkgQMpWA0) * [Video 3](https://youtu.be/91P0C-GBx4U) * [Video 4](https://youtu.be/uYAOYwl_bJY)
 
 ### Aula 2 - Container e Docker (Parte 1)
 * [Video 1](https://youtu.be/eA0THuq55w8)
