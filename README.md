@@ -23,7 +23,7 @@
 ## Módulo 2 - Data Mining
 
 ### Aula 1 - Extração de atributos em sinais e seleção de atributos
-* [Video - Precisa regravar](https://youtu.be/4JhgOLo2EJ0?si=D6cQtyESMreFwufM)
+* [Video ](https://youtu.be/4JhgOLo2EJ0?si=D6cQtyESMreFwufM)
 * [Tira - dúvidas ]( https://youtu.be/acxuyzGvhSo?si=QRx45nrFlGZDcoB3 )
 * [Códigos]( https://github.com/lapisco/Data_Science_Trainee_Program/tree/master/Module_2 )
 * [Código - Feature Extraction]( https://github.com/navarmn/feature_extraction_signal?authuser=0 )
